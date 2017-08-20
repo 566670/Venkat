@@ -10,5 +10,6 @@ ObjeFctry o=new  ObjeFctry();
 	sample2.doRun();
 	sample1.doRun();
 	interFaIprocess.doRun();
+	System.out.println();
 }	
 }
